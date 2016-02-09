@@ -31,3 +31,4 @@ function deleteItem(event) {
   $(event.target).parent().remove();
 
 }
+// test
